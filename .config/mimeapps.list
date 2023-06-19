@@ -1,0 +1,34 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Firefox-D0SC61.desktop
+x-scheme-handler/https=userapp-Firefox-D0SC61.desktop
+x-scheme-handler/chrome=userapp-Firefox-D0SC61.desktop
+text/html=userapp-Firefox-D0SC61.desktop
+application/x-extension-htm=userapp-Firefox-D0SC61.desktop
+application/x-extension-html=userapp-Firefox-D0SC61.desktop
+application/x-extension-shtml=userapp-Firefox-D0SC61.desktop
+application/xhtml+xml=userapp-Firefox-D0SC61.desktop
+application/x-extension-xhtml=userapp-Firefox-D0SC61.desktop
+application/x-extension-xht=userapp-Firefox-D0SC61.desktop
+image/jpeg=nsxiv.desktop
+application/epub+zip=org.pwmt.zathura.desktop
+text/x-bibtex=emacsclient.desktop
+text/org=emacsclient.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Firefox-D0SC61.desktop;
+x-scheme-handler/https=userapp-Firefox-D0SC61.desktop;
+x-scheme-handler/chrome=userapp-Firefox-D0SC61.desktop;
+text/html=userapp-Firefox-D0SC61.desktop;
+application/x-extension-htm=userapp-Firefox-D0SC61.desktop;
+application/x-extension-html=userapp-Firefox-D0SC61.desktop;
+application/x-extension-shtml=userapp-Firefox-D0SC61.desktop;
+application/xhtml+xml=userapp-Firefox-D0SC61.desktop;
+application/x-extension-xhtml=userapp-Firefox-D0SC61.desktop;
+application/x-extension-xht=userapp-Firefox-D0SC61.desktop;
+image/jpeg=nsxiv.desktop;
+application/epub+zip=org.pwmt.zathura.desktop;
+text/x-bibtex=emacsclient.desktop;
+text/org=emacsclient.desktop;
+image/png=nsxiv.desktop;
+image/gif=nsxiv.desktop;
+text/plain=emacsclient.desktop;

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+in=$( xclip -o )
+
+mpv "$in"

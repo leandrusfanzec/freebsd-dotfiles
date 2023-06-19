@@ -1,0 +1,17 @@
+#+TITLE: Configuración Personal FreeBSD - Leandrus
+#+AUTHOR: Leandrus Fanzec
+
+* Presentación
+
+Esta configuración es la [[https://github.com/leandrusfanzec/openbsd-dotfiles][misma creada]] para OpenBSD, la cual fue
+replicada para FreeBSD.
+
+* ¿Por qué?
+
+Al probar FreeBSD, pensé que la mayoría de la configuración
+establecida para OpenBSD funcionaría ("calzaría"), plenamente o por lo
+menos, sin muchas diferencias.
+
+Sin embargo, me he dado cuenta que son dos sistemas que vienen con
+configuraciones distintas desde cero.
+
