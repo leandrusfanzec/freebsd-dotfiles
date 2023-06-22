@@ -104,8 +104,9 @@ bind-key 4S-o ".local/bin/rep"
 #----------------------
 # - Miscelanea
 command term "alacritty"
-command Musica "alacritty -T ytfzf_musica --class musica -e ytfzf -tsm"
-command Video "alacritty -T ytfzf_video --class video -e tfzf --video-pref=720 -ts"
+command Musica "alacritty -T ytfzf_musica --class musica -e ytfzf
+-tsm"
+command Video "alacritty -T ytfzf_video --class video -e ytfzf -ts --video-pref=720"
 
 # Ayuda
 command Manual "zathura /usr/local/share/doc/freebsd/es/books/handbook/handbook_es.pdf"
