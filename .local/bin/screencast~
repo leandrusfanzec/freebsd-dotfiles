@@ -5,7 +5,7 @@
 # doas sysctl kern.audio.record=1
 # doas sysctl kern.video.record=1
 
-trap 'kill 0' INT
+#trap 'kill 0' INT
 
 ffmpeg -f oss -thread_queue_size 4096 -i /dev/dsp0 \
     -f oss -thread_queue_size 4096 -i /dev/dsp1 \
@@ -21,4 +21,4 @@ ffmpeg -f oss -thread_queue_size 4096 -i /dev/dsp0 \
 #     --demuxer-lavf-o-set=input_format=mjpeg \
 #     av://v4l2:/dev/video0
 
-kill 0
+#kill 0
